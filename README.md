@@ -6,8 +6,8 @@
 
 ### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="15" width="20"/> Latest YouTube Videos
 
-- [AnonShare Tool - Review](https://youtu.be/SaUKOtyaptw)
-- [SQLi 404 Bad Request - Solved](https://youtu.be/BN8AQlO9Ea8)
+- [AnonShare Tool Tutorial](https://youtu.be/SaUKOtyaptw)
+- [SQLi Tutorial - 404 Bad Request Solved](https://youtu.be/BN8AQlO9Ea8)
 
 
 
