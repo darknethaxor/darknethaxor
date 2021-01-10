@@ -3,3 +3,16 @@
 <p align="center"><a href="https://github.com/darknethaxor/DH-HackBar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=DH-HackBar&theme=radical" height="100" width="300"></a> <a href="https://github.com/darknethaxor/AnonShare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=AnonShare&theme=radical" height="100" width="300"></a></p>
 <p align="center"><a href="https://github.com/darknethaxor/haxor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=haxor&theme=radical" height="100" width="300"></a> <a href="https://github.com/darknethaxor/webscan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=webscan&theme=radical" height="100" width="300"></a></p>
 <p align="center"><a href="https://github.com/darknethaxor/s-bomb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=s-bomb&theme=radical" height="100" width="300"></a> <a href="https://github.com/darknethaxor/dhspoof"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=dhspoof&theme=radical" height="100" width="300"></a></p><p align="center"><a href="https://github.com/darknethaxor/rage-bomb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=rage-bomb&theme=radical" height="100" width="300"></a> <a href="https://github.com/darknethaxor/dhlogo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=dhlogo&theme=radical" height="100" width="300"></a></p>
+
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="20" width="20"/> Latest YouTube Videos
+
+- [AnonShare Tool Review (2021)](https://youtu.be/SaUKOtyaptw)
+- [SQLi 404 Bad Request - Solved](https://youtu.be/BN8AQlO9Ea8)
+
+
+
+### <img src="https://raw.githubusercontent.com/darknethaxor/picture/main/PinClipart.com_omega-psi-phi-clip_1414856.png" height="20" width="20"/> Latest Blog Posts
+
+
+- [Earn Money With Short Link - Bangla](https://dnhaxorbd.blogspot.com/2020/12/blog-post.html)
+- [Raspberry Pi - Review](https://dnhaxorbd.blogspot.com/2020/12/3b-3b-4b.html)
