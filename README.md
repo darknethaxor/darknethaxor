@@ -9,9 +9,3 @@
 - [AnonShare Tool Tutorial](https://youtu.be/SaUKOtyaptw)
 - [SQLi Tutorial - 404 Bad Request Solved](https://youtu.be/BN8AQlO9Ea8)
 
-
-
-### <img src="https://raw.githubusercontent.com/darknethaxor/picture/main/PinClipart.com_omega-psi-phi-clip_1414856.png" height="17" width="19"/>  Latest Blog Posts
-
-- [Earn Money With Short Link - Bangla](https://dnhaxorbd.blogspot.com/2020/12/blog-post.html)
-- [Raspberry Pi - Review](https://dnhaxorbd.blogspot.com/2020/12/3b-3b-4b.html)
